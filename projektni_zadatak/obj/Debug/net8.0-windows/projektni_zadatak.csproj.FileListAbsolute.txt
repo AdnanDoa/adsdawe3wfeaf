@@ -1,0 +1,188 @@
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.AssemblyReference.cache
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_Glavna.resources
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Prijava.resources
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Properties.Resources.resources
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.GenerateResource.cache
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.GeneratedMSBuildEditorConfig.editorconfig
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfoInputs.cache
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfo.cs
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.CoreCompileInputs.cache
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_Glavna.resources
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.exe
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.deps.json
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.runtimeconfig.json
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.pdb
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektn.98B326D5.Up2Date
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.dll
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\refint\projektni_zadatak.dll
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.pdb
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.genruntimeconfig.cache
+D:\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\ref\projektni_zadatak.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.exe
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.deps.json
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.runtimeconfig.json
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.AssemblyReference.cache
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_PrikazBrisanje.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_Glavna.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Prijava.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Properties.Resources.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.GenerateResource.cache
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfoInputs.cache
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfo.cs
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektn.98B326D5.Up2Date
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\refint\projektni_zadatak.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.genruntimeconfig.cache
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\ref\projektni_zadatak.dll
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_DodavanjeAzuriranjeArtikala.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_Glavna.resources
+C:\Users\teaal\Videos\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_KreiranjeAzuriranjeKupca.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.exe
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.deps.json
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.runtimeconfig.json
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.AssemblyReference.cache
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_DodavanjeAzuriranjeArtikala.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_Glavna.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_KreiranjeAzuriranjeKupca.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_PrikazBrisanje.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_Glavna.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_PregledNarudzbi.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Prijava.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Properties.Resources.resources
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.GenerateResource.cache
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfoInputs.cache
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfo.cs
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.sourcelink.json
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektn.98B326D5.Up2Date
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\refint\projektni_zadatak.dll
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.genruntimeconfig.cache
+C:\Users\teaal\Desktop\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\ref\projektni_zadatak.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.exe
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.deps.json
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.runtimeconfig.json
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.AssemblyReference.cache
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_DodavanjeAzuriranjeArtikala.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_Glavna.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_KreiranjeAzuriranjeKupca.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_PrikazBrisanje.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_Glavna.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_PregledNarudzbi.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Prijava.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Properties.Resources.resources
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.GenerateResource.cache
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfoInputs.cache
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfo.cs
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.sourcelink.json
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektn.98B326D5.Up2Date
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\refint\projektni_zadatak.dll
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.genruntimeconfig.cache
+C:\Users\DT User\source\repos\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\ref\projektni_zadatak.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.AssemblyReference.cache
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\refint\projektni_zadatak.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.exe
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.deps.json
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.runtimeconfig.json
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\projektni_zadatak.pdb
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_DodavanjeAzuriranjeArtikala.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_Glavna.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_KreiranjeAzuriranjeKupca.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Admin_PrikazBrisanje.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_Glavna.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Kupac_PregledNarudzbi.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Form_Prijava.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.Properties.Resources.resources
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.GenerateResource.cache
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfoInputs.cache
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.AssemblyInfo.cs
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.sourcelink.json
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektn.98B326D5.Up2Date
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\projektni_zadatak.genruntimeconfig.cache
+C:\Users\DT User\Desktop\teaprojektni\projektni_zadatak\projektni_zadatak\obj\Debug\net8.0-windows\ref\projektni_zadatak.dll

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form_Admin_DodavanjeAzuriranjeArtikala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Admin_Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Admin_KreiranjeAzuriranjeKupca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Admin_PrikazBrisanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Kupac_Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Kupac_Prikaz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Prijava.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
