@@ -91,6 +91,7 @@ namespace projektni_zadatak
             label3 = new Label();
             label2 = new Label();
             label1 = new Label();
+            button1 = new Button();
             groupBox1.SuspendLayout();
             ((ISupportInitialize)dataGridView2).BeginInit();
             ((ISupportInitialize)dataGridView1).BeginInit();
@@ -99,6 +100,7 @@ namespace projektni_zadatak
             // groupBox1
             // 
             groupBox1.BackgroundImage = (Image)resources.GetObject("groupBox1.BackgroundImage");
+            groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(Prikazi);
             groupBox1.Controls.Add(dataGridView2);
             groupBox1.Controls.Add(dataGridView1);
@@ -214,6 +216,17 @@ namespace projektni_zadatak
             label1.TabIndex = 0;
             label1.Text = "Stavke narudžbe";
             // 
+            // button1
+            // 
+            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 238);
+            button1.Location = new Point(427, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(78, 32);
+            button1.TabIndex = 10;
+            button1.Text = "Kreiranje";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form_Kupac_PregledNarudzbi
             // 
             ClientSize = new Size(511, 406);
@@ -263,6 +276,16 @@ namespace projektni_zadatak
 
             db.ZatvoriKonekciju();
 
+        }
+
+        private Button button1;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form_Kupac_Glavna novaGlavnaForma = new Form_Kupac_Glavna();
+            novaGlavnaForma.Show();
+
+            this.Hide();
         }
     }
 }

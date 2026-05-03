@@ -232,5 +232,12 @@ namespace projektni_zadatak
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form_Kupac_PregledNarudzbi formaPregled = new Form_Kupac_PregledNarudzbi();
+            formaPregled.Show();
+            this.Hide();
+        }
     }
 }

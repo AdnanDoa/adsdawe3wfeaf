@@ -44,6 +44,7 @@
             dataGridView2 = new DataGridView();
             label1 = new Label();
             btnKreirajNarudzbu = new Button();
+            button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
@@ -60,6 +61,7 @@
             // groupBox1
             // 
             groupBox1.BackgroundImage = (Image)resources.GetObject("groupBox1.BackgroundImage");
+            groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(label6);
             groupBox1.Controls.Add(label5);
             groupBox1.Controls.Add(txtTotal);
@@ -140,7 +142,6 @@
             txtKolicina.Name = "txtKolicina";
             txtKolicina.Size = new Size(59, 23);
             txtKolicina.TabIndex = 8;
-          
             // 
             // txtIdArtikla
             // 
@@ -148,7 +149,6 @@
             txtIdArtikla.Name = "txtIdArtikla";
             txtIdArtikla.Size = new Size(59, 23);
             txtIdArtikla.TabIndex = 7;
-            
             // 
             // btnDodaj
             // 
@@ -213,6 +213,16 @@
             btnKreirajNarudzbu.UseVisualStyleBackColor = false;
             btnKreirajNarudzbu.Click += btnKreirajNarudzbu_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(615, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 14;
+            button1.Text = "Prikaz";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form_Kupac_Glavna
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -246,5 +256,6 @@
         private TextBox txtIdArtikla;
         private Button btnDodaj;
         private Button btnObrisi;
+        private Button button1;
     }
 }
